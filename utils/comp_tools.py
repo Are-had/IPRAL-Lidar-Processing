@@ -16,7 +16,7 @@ def get_grouped_profiles(backscatter_atlid, alt_atlid, group_size):
         start_idx = i * group_size
         end_idx = start_idx + group_size
         
-        # Moyenne des 50 profils
+        # Moyenne des n profils
         mean_backscatter = np.nanmean(backscatter_atlid[start_idx:end_idx, :], axis=0)
         mean_alt = np.nanmean(alt_atlid[start_idx:end_idx, :], axis=0)
         
