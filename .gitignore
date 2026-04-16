@@ -13,4 +13,6 @@ __pycache__/
 # OS files
 .DS_Store
 OLD/
+notebooks_old/
+struct
 figures/
