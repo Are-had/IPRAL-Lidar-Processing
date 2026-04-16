@@ -1,5 +1,7 @@
 # Data files (too large)
-data/*.h5
+data/*.h5c
+qsc
+
 data/*.nc
 
 # Python cache
