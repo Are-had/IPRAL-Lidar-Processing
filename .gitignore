@@ -16,3 +16,6 @@ OLD/
 notebooks_old/
 struct
 figures/
+DATA/
+
+utils/
