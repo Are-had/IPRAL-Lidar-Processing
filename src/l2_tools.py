@@ -1,3 +1,5 @@
+""" a part of this code was adapted from the code provided on the github https://gitlab.com/ioannis_binietoglou/lidar-processing/-/blob/master/lidar_processing/elastic_retrievals.py?ref_type=heads """
+
 import numpy as np
 
 

@@ -1,0 +1,27 @@
+{
+  "title": "IPRAL-Lidar-Processing: calibration and backscatter retrieval for IPRAL 355 nm far-range signals",
+  "upload_type": "software",
+  "version": "1.0",
+  "description": "Research processing chain for the IPRAL 355 nm far-range lidar (SIRTA, Palaiseau): L0 to L1 calibration (calibration coefficient, residual background, polarization cross-talk, analog/photon-counting merging) and L1 to L2 particle backscatter retrieval (Klett-Fernald-Sasano inversion). The algorithms are described in the technical note 'Calibration Procedure and Backscatter Retrieval for IPRAL 355 nm Far-Range Signals' (Technical Note v1.0, LMD/IPSL). Developed to support the ATLID/EarthCARE zenith-to-nadir comparison study. This is a research processing chain, not the operational IPRAL/SIRTA processing.",
+  "creators": [
+    {
+      "name": "Haddouche, Arezki",
+      "affiliation": "Laboratoire de Météorologie Dynamique (LMD/IPSL), École Polytechnique"
+    },
+    {
+      "name": "Feofilov, Artem",
+      "affiliation": "Laboratoire de Météorologie Dynamique (LMD/IPSL), École Polytechnique"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "lidar",
+    "IPRAL",
+    "SIRTA",
+    "calibration",
+    "Klett inversion",
+    "ATLID",
+    "EarthCARE"
+  ],
+  "notes": "Funded by the Académie Spatiale d'Île-de-France, France 2030, ANR-23-CMAS-0041."
+}

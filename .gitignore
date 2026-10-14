@@ -19,5 +19,6 @@ notebooks_old/
 struct
 figures/
 DATA/
+data/
 
 utils/

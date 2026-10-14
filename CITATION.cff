@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "IPRAL-Lidar-Processing: calibration and backscatter retrieval for IPRAL 355 nm far-range signals"
+version: "1.0"
+date-released: "2026-10-14"
+license: MIT
+repository-code: "https://github.com/Are-had/IPRAL-Lidar-Processing"
+abstract: >-
+  Research processing chain for the IPRAL 355 nm far-range lidar (SIRTA):
+  L0 to L1 calibration (calibration coefficient, residual background,
+  polarization cross-talk, analog/photon-counting merging) and L1 to L2
+  particle backscatter retrieval (Klett-Fernald-Sasano inversion).
+  Developed to support the ATLID/EarthCARE zenith-to-nadir comparison.
+  this is not the official IPRAL/SIRTA processing.
+keywords:
+  - lidar
+  - IPRAL
+  - SIRTA
+  - calibration
+  - Klett inversion
+  - ATLID
+  - EarthCARE
+authors:
+  - family-names: Haddouche
+    given-names: Arezki
+    email: arezki.haddouche@lmd.ipsl.fr
+    affiliation: "Laboratoire de Météorologie Dynamique (LMD/IPSL), École Polytechnique, Palaiseau, France"
+  - family-names: Feofilov
+    given-names: Artem
+    email: afeofilo@lmd.ipsl.fr
+    affiliation: "Laboratoire de Météorologie Dynamique (LMD/IPSL), École Polytechnique, Palaiseau, France"
