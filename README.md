@@ -60,10 +60,9 @@ IPRAL-Lidar-Processing/
 
 ## Data
 
-The data are not included in this repository because of their size (about 2 GB). They are available at: **[DATA LINK]**
+The data are not included in this repository because of their size (about 2 GB). They are available on request from the authors: Arezki Haddouche (arezki.haddouche@lmd.ipsl.fr) or Artem Feofilov (afeofilo@lmd.ipsl.fr). The IPRAL L0 files can also be obtained directly from the SIRTA data portal (see below).
 
-Download them and place them in a `data/` folder at the root of the repository:
-
+To run the notebooks, place the data in a `data/` folder at the root of the repository:
 ```
 data/
 ├── Case_1_and_3/            # 2025-07-04
@@ -100,7 +99,7 @@ Python ≥ 3.9 with `numpy`, `scipy`, `pandas`, `matplotlib`, `netCDF4` (see `re
 
 If you use this code, please cite the archived version on Zenodo:
 
-> Haddouche, A. and Feofilov, A. G. (2026). *IPRAL-Lidar-Processing* (v1.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Haddouche, A. and Feofilov, A. G. (2026). *IPRAL-Lidar-Processing: calibration and backscatter retrieval for IPRAL 355 nm far-range signals* (Version 1.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23387966
 
 and the technical note (v1.0) describing the algorithms.
 
