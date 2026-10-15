@@ -1,6 +1,6 @@
 # IPRAL-Lidar-Processing
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23387966.svg)](https://doi.org/10.5281/zenodo.23387966)
 
 Research code developed at LMD/IPSL to calibrate the **IPRAL 355 nm far-range lidar** signals (SIRTA, Palaiseau) and retrieve particle backscatter, **for the purpose of comparing them with ATLID/EarthCARE**. It implements the algorithms described in the technical note:
 
